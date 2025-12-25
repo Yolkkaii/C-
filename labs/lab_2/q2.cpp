@@ -19,6 +19,7 @@ struct Matrix {
     int rows;
     int cols;
 };
+
 // Function prototypes
 //2. Declare the function prototypes for the following functions:
 // - getInput: takes a string prompt and returns a string input from the user.

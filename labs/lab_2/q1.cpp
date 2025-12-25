@@ -46,12 +46,12 @@ int main() {
     // is present in replaced_string
     
     cout << "Is \"Google\" in the above string?\n";
-    auto pos = replaced_string.find("Google");
-    
-    if (pos != string::npos) {
-        cout << "Yes\n";
-    } else {
+    auto pos = replaced_string.find(to_uppercase("Google"));
+
+    if (pos == string::npos) {
         cout << "No\n";
+    } else {
+        cout << "Yes\n";
     }
 
     return 0;

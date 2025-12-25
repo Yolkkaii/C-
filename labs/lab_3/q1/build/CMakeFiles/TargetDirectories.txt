@@ -1,0 +1,3 @@
+/Users/yolkai/Documents/GitHub/c++/C-/labs/lab_3/q1/build/CMakeFiles/employee.dir
+/Users/yolkai/Documents/GitHub/c++/C-/labs/lab_3/q1/build/CMakeFiles/edit_cache.dir
+/Users/yolkai/Documents/GitHub/c++/C-/labs/lab_3/q1/build/CMakeFiles/rebuild_cache.dir
