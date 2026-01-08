@@ -1,0 +1,3 @@
+/Users/yolkai/Documents/GitHub/c++/C-/labs/lab_4/q1/build/CMakeFiles/matrix.dir
+/Users/yolkai/Documents/GitHub/c++/C-/labs/lab_4/q1/build/CMakeFiles/edit_cache.dir
+/Users/yolkai/Documents/GitHub/c++/C-/labs/lab_4/q1/build/CMakeFiles/rebuild_cache.dir
