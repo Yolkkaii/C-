@@ -137,10 +137,11 @@ void enrollStudentInCourse(vector<Student>& students, vector<Course>& courses) {
     //your code here
     for (int i = 0; i < students.size(); i++) {
         Student& student = students[i];
-        cout << "Name: " << student.getName() << ", ID: " << student.getId() << endl;
         
         int choice {1};
         do {
+            auto student_courses = student.getCourses();
+            cout << "Name: " << student.getName() << ", ID: " << student.getId() << ", Current number of enrolled courses = " << student_courses.size() << endl;
             choice = courseMenu(courses);
             
             if (choice == 0) break;
