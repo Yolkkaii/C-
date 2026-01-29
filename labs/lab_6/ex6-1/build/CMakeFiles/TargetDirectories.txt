@@ -1,0 +1,3 @@
+/Users/yolkai/Documents/GitHub/c++/C-/labs/lab_6/ex6-1/build/CMakeFiles/ex6-1.dir
+/Users/yolkai/Documents/GitHub/c++/C-/labs/lab_6/ex6-1/build/CMakeFiles/edit_cache.dir
+/Users/yolkai/Documents/GitHub/c++/C-/labs/lab_6/ex6-1/build/CMakeFiles/rebuild_cache.dir
