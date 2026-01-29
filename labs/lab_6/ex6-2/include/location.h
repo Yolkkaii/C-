@@ -13,7 +13,7 @@ public:
     Location();
     Location(int locX, int locY);
     void setLocation(int locX, int locY);
-    std::string getLocationString();
+    std::string getLocationString() const;
 };
 
 #endif

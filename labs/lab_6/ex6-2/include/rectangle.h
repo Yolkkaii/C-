@@ -10,8 +10,8 @@ private:
 
 public:
     Rectangle(double width, double height, int locX, int locY);
-    double getArea();
-    std::string getInfo();
+    double getArea() const;
+    std::string getInfo() const override;
 };
 
 #endif // RECTANGLE_H

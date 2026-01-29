@@ -10,6 +10,6 @@ void Location::setLocation(int locX, int locY) {
     y = locY;
 }
 
-std::string Location::getLocationString() {
-    return std::to_string(x) + ", " + std::to_string(y);
+std::string Location::getLocationString() const {
+    return "(" + std::to_string(x) + "," + std::to_string(y) + ")";
 }

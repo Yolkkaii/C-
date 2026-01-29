@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names "CMakeFiles/ex6-2.dir/src/circle.cpp.o" "CMakeFiles/ex6-2.dir/src/location.cpp.o" "CMakeFiles/ex6-2.dir/src/main.cpp.o" "CMakeFiles/ex6-2.dir/src/rectangle.cpp.o" "CMakeFiles/ex6-2.dir/src/shape.cpp.o" "CMakeFiles/ex6-2.dir/src/sphere.cpp.o" -o ex6-2

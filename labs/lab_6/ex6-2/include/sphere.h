@@ -6,9 +6,9 @@
 class Sphere : public Circle {
 public:
     Sphere(double radius, int locX, int locY);
-    double getVolume();
-    double getArea();
-    std::string getInfo();
+    double getVolume() const;
+    double getArea() const;
+    std::string getInfo() const override;
 };
 
 #endif 

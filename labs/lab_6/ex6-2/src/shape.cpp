@@ -4,10 +4,14 @@
 // Implementation of Shape class
 Shape::Shape(int locX, int locY) : shapeLocation(locX, locY) {}
 
-Location& getLocation(){
-    
+Location& Shape::getLocation(){
+    return shapeLocation;    
 }
 
-Location getLocation() const{
+Location Shape::getLocation() const{
+    return shapeLocation;
+}
 
+void Shape::setLocation(int x, int y) {
+    shapeLocation.setLocation(x, y);
 }

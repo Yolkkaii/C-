@@ -5,7 +5,7 @@
 //task 2
 //Definition of Shape class
 class Shape{
-private:
+protected:
     Location shapeLocation;
 
 public:
@@ -15,6 +15,7 @@ public:
     virtual std::string getInfo() const = 0;
     Location& getLocation();
     Location getLocation() const;
+    void setLocation(int x, int y);
 };
 
 #endif // SHAPE_H

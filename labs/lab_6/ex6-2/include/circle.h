@@ -5,12 +5,12 @@ const double PI {3.14159};
 //task 3
 //Definition of Circle class
 class Circle : public Shape {
-private:
+protected:
     double radius;
 public:
     Circle(double radius, int locX, int locY);
-    double getArea();
-    std::string getInfo();
+    double getArea() const;
+    std::string getInfo() const override;
 };
 
 #endif
