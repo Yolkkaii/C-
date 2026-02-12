@@ -1,0 +1,3 @@
+/Users/yolkai/Documents/GitHub/c++/C-/labs/lab_8/ex8-1/build/CMakeFiles/studentsapp.dir
+/Users/yolkai/Documents/GitHub/c++/C-/labs/lab_8/ex8-1/build/CMakeFiles/edit_cache.dir
+/Users/yolkai/Documents/GitHub/c++/C-/labs/lab_8/ex8-1/build/CMakeFiles/rebuild_cache.dir
