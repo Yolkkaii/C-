@@ -191,4 +191,6 @@ void readErrorLog(const string& errorLogFile) {
         std::istringstream ss(line);
         cout << line << "\n";
     }
+
+    errorFile.close();
 }
