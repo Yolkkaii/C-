@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/dept.dir/src/department.cpp.o CMakeFiles/dept.dir/src/employee.cpp.o "CMakeFiles/dept.dir/src/fulltime-employee.cpp.o" CMakeFiles/dept.dir/src/main.cpp.o "CMakeFiles/dept.dir/src/parttime-employee.cpp.o" -o dept

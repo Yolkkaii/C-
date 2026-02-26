@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names "CMakeFiles/ex6-1.dir/src/department.cpp.o" "CMakeFiles/ex6-1.dir/src/employee.cpp.o" "CMakeFiles/ex6-1.dir/src/fulltime-employee.cpp.o" "CMakeFiles/ex6-1.dir/src/main.cpp.o" "CMakeFiles/ex6-1.dir/src/parttime-employee.cpp.o" -o ex6-1
