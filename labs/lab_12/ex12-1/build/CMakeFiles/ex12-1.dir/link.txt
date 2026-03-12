@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names "CMakeFiles/ex12-1.dir/src/football-observer.cpp.o" "CMakeFiles/ex12-1.dir/src/football-score.cpp.o" "CMakeFiles/ex12-1.dir/src/main.cpp.o" "CMakeFiles/ex12-1.dir/src/score-subject.cpp.o" -o ex12-1
